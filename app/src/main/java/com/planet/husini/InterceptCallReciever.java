@@ -188,6 +188,7 @@ public class InterceptCallReciever extends BroadcastReceiver {
         }
     }
 
+
     /**
      * 监听数据库状态，当CallLog.Calls.CONTENT_URI系统表数据变化时，会有回调
      */
