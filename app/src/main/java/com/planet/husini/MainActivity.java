@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
 //        tmp = new ReadLog(this);
 //        tmp.start();
 
+        //尝试调用logcat去监听去电时的电话状态
 //        new Thread(new Runnable() {
 //                        @Override
 //            public void run() {
